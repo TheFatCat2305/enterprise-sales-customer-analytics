@@ -73,7 +73,7 @@ to improve revenue focus, retention, and basket size.
 ---
 
 ## 🧰 Tools & Skills
-Power BI, DAX, SQL, RFM Analysis, Cross-sell Analysis, Data Modelling, Enterprise Reporting
+Power BI, DAX, SQL, RFM Analysis, Pareto Analysis, Cross-sell Analysis, Data Modelling, Enterprise Reporting
 
 ---
 

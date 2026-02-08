@@ -27,10 +27,10 @@ to improve revenue focus, retention, and basket size.
 
 ### 2. Customer Segmentation (RFM)
 - Identification of Champions, Loyal, At Risk, and Lost customers
-- Revenue concentration and retention risk analysis
+- Revenue concentration and retention risk with Pareto analysis
 
 ### 3. Cross-sell Analysis
-- Product combinations with highest business impact
+- Product combinations with the highest business impact
 - Cross-sell adoption rate and unrealised revenue opportunity
 - Segment-level cross-sell recommendations
 
@@ -39,7 +39,7 @@ to improve revenue focus, retention, and basket size.
 ## 📈 Key Business Insights
 - Top 20% of customers contribute 61% of total revenue
 - 49% of customers generate 80.61% of revenue
-- At Risk customers contribute over 21% of revenue
+- At risk customers contribute over 21% of revenue
 - 46.82% of orders present cross-sell opportunities
 - Estimated unrealised cross-sell revenue: $166.70K
 

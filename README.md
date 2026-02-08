@@ -52,9 +52,23 @@ to improve revenue focus, retention, and basket size.
 ---
 
 ## 💡 Business Recommendations
-- Prioritise retention for At Risk and Cannot Lose Them segments
-- Apply selective engagement for low-value, high-volume segments
-- Focus cross-sell campaigns on high-confidence product bundles
+- Immediate retention for At Risk and Cannot Lose Them segments, protecting over 21% of revenue, with targeted interventions such as limited-time discounts and personalised outreach.
+
+- Maximise revenue from top segments (Champions, Loyal, Potential Loyalist):
+
+  Champions → upsell premium bundles / VIP offers
+
+  Loyal → subscription or repeat purchase incentives
+
+  Potential Loyalist → low-cost cross-sell / product discovery
+
+- Selective, low-cost engagement for low-contributing segments (Potential Loyal, New, Need Attention, About To Sleep) to optimise ROI.
+
+- Enhance cross-sell execution:
+
+  46.82% of orders show cross-sell potential, current adoption moderate (3.35 items/order)
+
+  Close gap to realise estimated $166.7K incremental revenue by focusing on high-confidence product bundles.
 
 ---
 

@@ -24,15 +24,21 @@ to improve revenue focus, retention, and basket size.
 ### 1. Executive Overview
 - Total Revenue, Customer Count, Average Order Value
 - Revenue trends and high-level performance indicators
+  
+  ![image](https://github.com/TheFatCat2305/enterprise-sales-customer-analytics/blob/main/Overview.png) 
 
 ### 2. Customer Segmentation (RFM)
 - Identification of Champions, Loyal, At Risk, and Lost customers
 - Revenue concentration and retention risk with Pareto analysis
+  
+  ![image](https://github.com/TheFatCat2305/enterprise-sales-customer-analytics/blob/main/Customer.png) 
 
 ### 3. Cross-sell Analysis
 - Product combinations with the highest business impact
 - Cross-sell adoption rate and unrealised revenue opportunity
 - Segment-level cross-sell recommendations
+  
+   ![image](https://github.com/TheFatCat2305/enterprise-sales-customer-analytics/blob/main/Product.png) 
 
 ---
 

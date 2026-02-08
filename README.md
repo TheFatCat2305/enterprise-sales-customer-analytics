@@ -1,4 +1,4 @@
-# Enterprise Sales & Customer Analytics Dashboard
+<img width="468" height="218" alt="image" src="https://github.com/user-attachments/assets/886199b6-6828-4750-9fdc-62e466fd3934" /># Enterprise Sales & Customer Analytics Dashboard
 
 ## 📌 Business Problem
 Sales and marketing teams often lack a clear, data-driven view of:
@@ -43,11 +43,14 @@ to improve revenue focus, retention, and basket size.
 ---
 
 ## 📈 Key Business Insights
-- Top 20% of customers contribute 61% of total revenue
-- 49% of customers generate 80.61% of revenue
-- At risk customers contribute over 21% of revenue
-- 46.82% of orders present cross-sell opportunities
-- Estimated unrealised cross-sell revenue: $166.70K
+-	Top 20% of customers generate 61% of total revenue, driven primarily by Champions, Loyal, and Potential Loyalist segments.
+-	49% of customers contribute 80.61% of revenue, concentrated in Champions, Loyal, and At Risk segments, indicating strong revenue dependency on a limited customer base.
+-	At Risk customers alone contribute over 21% of total revenue, highlighting the need for immediate retention actions to prevent revenue loss.
+-	Potential Loyalist customers represent a large customer base but contribute only 1.68% of revenue, supporting a selective, low-cost engagement strategy rather than aggressive investment.
+-	Cross-sell adoption remains moderate, with an average of 3.35 items per order and 46.82% of orders containing multiple products, indicating clear headroom for growth.
+-	46.82% of orders present valid cross-sell opportunities, yet only a subset converts, resulting in an estimated unrealised revenue opportunity of $166.70K.
+
+
 
 ---
 

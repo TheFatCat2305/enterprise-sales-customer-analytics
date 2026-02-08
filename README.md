@@ -1,4 +1,4 @@
-<img width="468" height="218" alt="image" src="https://github.com/user-attachments/assets/886199b6-6828-4750-9fdc-62e466fd3934" /># Enterprise Sales & Customer Analytics Dashboard
+Enterprise Sales & Customer Analytics Dashboard
 
 ## 📌 Business Problem
 Sales and marketing teams often lack a clear, data-driven view of:
